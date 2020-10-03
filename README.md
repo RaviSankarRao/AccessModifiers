@@ -1,6 +1,6 @@
 # AccessModifiers
 
-`
+```
     public class Base
     {
         // Anywhere
@@ -45,4 +45,4 @@
         }
     }
 
-`
+```
